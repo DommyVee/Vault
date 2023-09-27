@@ -8,6 +8,6 @@
 dg-publish: true
 dg-home: true
 
-Testing my garden
+[[Testing my garden\|Testing my garden]]
 
 
